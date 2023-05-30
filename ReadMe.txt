@@ -26,3 +26,4 @@
 ---------------------------------------------------
 
  * Copy .txt file/s into the "Benchmarks" folder
+ (file have to follow specific format to work)
